@@ -190,3 +190,6 @@ sample_urls.txt
 # Backup files
 *.bak
 *.backup
+
+# Implementation documentation
+implementation_tasks/
